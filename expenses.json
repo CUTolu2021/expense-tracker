@@ -1,0 +1,29 @@
+[
+  {
+    "description": "Coffee with friend",
+    "amount": 4.5,
+    "category": "Uncategorized",
+    "date": "2025-07-14T10:53:38.853Z"
+  },
+  {
+    "id": "d6e3d944-4ac1-47f3-9566-b378ad1f25c5",
+    "description": "Coffee with friend",
+    "amount": 4.5,
+    "category": "Uncategorized",
+    "date": "2025-07-14T10:54:48.177Z"
+  },
+  {
+    "id": "1fc9f352-29a4-4ec7-afdb-52163e35da9d",
+    "description": "Groceries",
+    "amount": 75,
+    "category": "Uncategorized",
+    "date": "2025-07-14T10:55:15.524Z"
+  },
+  {
+    "id": "93b71c0d-0365-49e2-be75-f6b9409bb32a",
+    "description": "Data",
+    "amount": 10,
+    "category": "Internet",
+    "date": "2025-07-14T22:14:12.353Z"
+  }
+]
